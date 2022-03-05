@@ -1,24 +1,13 @@
-# README
+# Rails6 and Vue2 application skelton
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## About
 
-Things you may want to cover:
+```
+rails webpacker:install:vue
+```
 
-* Ruby version
+が一部Vue3のパッケージをインストールしてしまうのでVue2のバージョンで固定したスケルトン
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Ruby 3.1.1
+* Rails 6.1.4.6
+* Vue 2.6.14
